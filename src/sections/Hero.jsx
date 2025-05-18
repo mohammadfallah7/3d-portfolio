@@ -60,7 +60,7 @@ const Hero = () => {
               Hi, I'm Mohammad, a developer based in Coratia with a passion for
               code.
             </p>
-            <Button id="button" className="md:w-80 md:h-16 w-60 h-12">
+            <Button id="counter" className="md:w-80 md:h-16 w-60 h-12">
               See my Work
             </Button>
           </div>
