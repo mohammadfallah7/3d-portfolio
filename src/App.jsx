@@ -1,4 +1,4 @@
-import { Hero, Showcase } from "./sections";
+import { FeatureList, Hero, Showcase } from "./sections";
 import { LogoSlider, Navbar } from "./components";
 
 const App = () => {
@@ -8,6 +8,7 @@ const App = () => {
       <Hero />
       <Showcase />
       <LogoSlider />
+      <FeatureList />
     </>
   );
 };
