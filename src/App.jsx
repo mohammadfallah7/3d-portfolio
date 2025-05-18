@@ -1,5 +1,5 @@
 import { Hero, Showcase } from "./sections";
-import { Navbar } from "./components";
+import { LogoSlider, Navbar } from "./components";
 
 const App = () => {
   return (
@@ -7,6 +7,7 @@ const App = () => {
       <Navbar />
       <Hero />
       <Showcase />
+      <LogoSlider />
     </>
   );
 };
