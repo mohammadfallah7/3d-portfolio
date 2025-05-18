@@ -1,5 +1,5 @@
 import { words } from "../constants";
-import { Button } from "../components";
+import { AnimatedCounter, Button } from "../components";
 import { HeroExperience } from "../components/HeroModels";
 import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
@@ -73,6 +73,8 @@ const Hero = () => {
           </div>
         </figure>
       </div>
+
+      <AnimatedCounter />
     </section>
   );
 };
