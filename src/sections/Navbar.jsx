@@ -1,4 +1,4 @@
-import { navLinks } from "../constants";
+import { navLinks } from "../constants/index.js";
 import { useEffect, useState } from "react";
 
 const Navbar = () => {

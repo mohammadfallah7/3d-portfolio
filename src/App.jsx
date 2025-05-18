@@ -1,5 +1,4 @@
-import { FeatureList, Hero, Showcase } from "./sections";
-import { LogoSlider, Navbar } from "./components";
+import { FeatureList, Hero, LogoSlider, Navbar, Showcase } from "./sections";
 
 const App = () => {
   return (
