@@ -6,3 +6,4 @@ export { default as Navbar } from "./Navbar";
 export { default as Experiences } from "./Experiences";
 export { default as TechStack } from "./TechStack";
 export { default as Testimonials } from "./Testimonials";
+export { default as Contact } from "./Contact";

@@ -1,4 +1,5 @@
 import {
+  Contact,
   Experiences,
   FeatureList,
   Hero,
@@ -20,6 +21,7 @@ const App = () => {
       <Experiences />
       <TechStack />
       <Testimonials />
+      <Contact />
     </>
   );
 };
