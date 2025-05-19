@@ -6,6 +6,7 @@ import {
   Navbar,
   Showcase,
   TechStack,
+  Testimonials,
 } from "./sections";
 
 const App = () => {
@@ -18,6 +19,7 @@ const App = () => {
       <FeatureList />
       <Experiences />
       <TechStack />
+      <Testimonials />
     </>
   );
 };
