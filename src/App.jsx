@@ -2,6 +2,7 @@ import {
   Contact,
   Experiences,
   FeatureList,
+  Footer,
   Hero,
   LogoSlider,
   Navbar,
@@ -22,6 +23,7 @@ const App = () => {
       <TechStack />
       <Testimonials />
       <Contact />
+      <Footer />
     </>
   );
 };
