@@ -5,6 +5,7 @@ import {
   LogoSlider,
   Navbar,
   Showcase,
+  TechStack,
 } from "./sections";
 
 const App = () => {
@@ -16,6 +17,7 @@ const App = () => {
       <LogoSlider />
       <FeatureList />
       <Experiences />
+      <TechStack />
     </>
   );
 };
