@@ -1,4 +1,11 @@
-import { FeatureList, Hero, LogoSlider, Navbar, Showcase } from "./sections";
+import {
+  Experiences,
+  FeatureList,
+  Hero,
+  LogoSlider,
+  Navbar,
+  Showcase,
+} from "./sections";
 
 const App = () => {
   return (
@@ -8,6 +15,7 @@ const App = () => {
       <Showcase />
       <LogoSlider />
       <FeatureList />
+      <Experiences />
     </>
   );
 };
